@@ -1,8 +1,11 @@
 ************************************************* Core Java ************************************
 
 1.) Variables, DataTypes and Operators. 
+
 2.) Expressions, Statements, Code blocks, and Methods.
+
 3.) Control Flow/Control Flow Statements.
+
 4.) OOPs
        Classes,
        Access Modifiers,
@@ -11,8 +14,11 @@
        Composition,
        Encapsulation,
        & Polymorphism
+       
 5.) Arrays.
+
 6.) Collections.
+
 7.) Inner and Abstrct Classes & Interfaces.
 
 ================================================================================
@@ -26,8 +32,8 @@
 
 
 ================================================================================
-================================================================================
-********************Advance Java/Frameworks/Tools/Repositories******************
+==============================================================================
+******************Advance Java/Frameworks/Tools/Repositories******************
 
 
 1.  Servelts
