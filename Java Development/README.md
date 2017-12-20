@@ -8,11 +8,17 @@
 
 4.) OOPs
        Classes,
+       
        Access Modifiers,
+       
        Constructors, 
+       
        Inheritance, 
+       
        Composition,
+       
        Encapsulation,
+       
        & Polymorphism
        
 5.) Arrays.
@@ -23,15 +29,20 @@
 
 ================================================================================
     There are many free resources available to Learn Cora Java but my favorites are:
-        Udemy.com  look for "Complete Java Masterclass by Tim Buchalka"
+    
+        https://www.udemy.com  look for "Complete Java Masterclass by Tim Buchalka"
+        
                 JavaTpoint https://www.javatpoint.com
+                
     If English is your second language, and you have hard time understing Big words in Java, Keywords,
+    
        Statements and Expression then look for Java/Core Java in your first language on YouTube
+       
                 It will help you to understand easily.
 
 
 
-================================================================================
+==============================================================================
 ==============================================================================
 ******************Advance Java/Frameworks/Tools/Repositories******************
 
