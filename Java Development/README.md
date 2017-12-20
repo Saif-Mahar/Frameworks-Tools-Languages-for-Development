@@ -7,6 +7,7 @@
 3.) Control Flow/Control Flow Statements.
 
 4.) OOPs
+       
        Classes,
        
        Access Modifiers,
@@ -28,11 +29,11 @@
 7.) Inner and Abstrct Classes & Interfaces.
 
 ================================================================================
-    There are many free resources available to Learn Cora Java but my favorites are:
+    There are a lot free resources available online to Learn Cora Java but my favorite ones are:
     
         https://www.udemy.com  look for "Complete Java Masterclass by Tim Buchalka"
         
-                JavaTpoint https://www.javatpoint.com
+                        JavaTpoint https://www.javatpoint.com
                 
     If English is your second language, and you have hard time understing Big words in Java, Keywords,
     
