@@ -28,7 +28,8 @@
 8.)  Closures
 9.)  Method Chaining
 10.) Promise
-11.) Prototypes
-12.) Hoisting
+11.) Inheritance and Constructor
+12.) Prototypes
+13.) Hoisting
 
 

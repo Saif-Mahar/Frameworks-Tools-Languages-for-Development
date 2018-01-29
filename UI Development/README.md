@@ -47,8 +47,10 @@
 
 10.) Promise
 
-11.) Prototypes
+11.) Inheritance and Constructor
 
-12.) Hoisting
+12.) Prototypes
+
+13.) Hoisting
 
 
